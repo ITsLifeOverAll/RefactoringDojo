@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+.idea
+.vs
+.vscode
+*.sln.iml
+DS_Store
