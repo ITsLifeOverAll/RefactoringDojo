@@ -7,4 +7,5 @@
 
 ## Trivia 
 * 本題出處: [jbrains/trivia](https://github.com/jbrains/trivia)
-* Youtube 播放清單： TBD 
+* [(重構過程) Youtube 播放清單](https://www.youtube.com/playlist?list=PLv3bW4BDh6I8tg1LSJoB7Ioz64s8Bcufz)
+~~~~
