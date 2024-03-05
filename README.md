@@ -9,3 +9,8 @@
 * 本題出處: [jbrains/trivia](https://github.com/jbrains/trivia)
 * [(重構過程) Youtube 播放清單](https://www.youtube.com/playlist?list=PLv3bW4BDh6I8tg1LSJoB7Ioz64s8Bcufz)
 
+## Gilded Rose 
+* 本題出處: [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [(重構過程)](https://youtu.be/pTg8ao74cKM)
+
+
